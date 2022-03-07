@@ -1,3 +1,3 @@
 # data-visualization-hw-3
-(healthcare_dancing_chart.html)
-(manylines.html)
+(main/healthcare_dancing_chart.html)
+(main/manylines.html)
